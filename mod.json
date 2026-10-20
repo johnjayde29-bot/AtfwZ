@@ -1,0 +1,23 @@
+{
+  "geode": "5.10.0",
+  "gd": {
+    "android": "2.2081"
+  },
+  "version": "v0.1.0",
+  "id": "yourname.atfw",
+  "name": "ATFW",
+  "developer": "yourname",
+  "description": "Auto Frame Window: analyzes replays and counts frame windows.",
+  "settings": {
+    "counter": {
+      "type": "bool",
+      "default": true,
+      "name": "Counter Display"
+    },
+    "audio": {
+      "type": "bool",
+      "default": true,
+      "name": "Audio Feedback"
+    }
+  }
+}
